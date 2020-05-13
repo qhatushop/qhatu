@@ -12,12 +12,12 @@ body {
 }
 .display-1 {
   font-family: 'Varela Round', sans-serif;
-  font-size: 3rem;
+  font-size: 4rem;
   line-height: 1;
   letter-spacing: -0.03em;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 4.8rem;
+  font-size: 6.4rem;
 }
 .display-2 {
   font-family: 'Varela Round', sans-serif;
@@ -62,9 +62,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 2.4rem;
-    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.2rem;
+    font-size: calc( 2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.05rem + (4 - 2.05) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.55rem;
@@ -2180,6 +2180,70 @@ blockquote {
 }
 .cid-rRHGcuHwym .mbr-section-title {
   color: #000000;
+}
+.cid-rYTbQoAanC {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rYTbQoAanC .container-fluid {
+  padding: 0 3rem;
+}
+.cid-rYTbQoAanC .mbr-section-title {
+  margin-bottom: 1.5em;
+}
+.cid-rYTbQoAanC .mbr-section-subtitle {
+  color: #ffbc00;
+}
+.cid-rYTbQoAanC .form-control {
+  border: 1px solid #ddd;
+  background-color: #efefef;
+  padding: 10px 20px;
+  width: 100%;
+  min-height: 53px;
+  border-radius: 0;
+}
+.cid-rYTbQoAanC textarea.form-control {
+  padding: 1rem;
+  min-height: 225px;
+}
+.cid-rYTbQoAanC .text-block {
+  background: #232323;
+  padding: 2rem;
+  outline: 1px dashed #f9e2af;
+  outline-offset: -15px;
+}
+.cid-rYTbQoAanC .work-list {
+  list-style-type: none;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+.cid-rYTbQoAanC .time-block-title {
+  color: #00e29e;
+}
+.cid-rYTbQoAanC .time-title {
+  color: #bdecb6;
+}
+@media (max-width: 767px) {
+  .cid-rYTbQoAanC .container-fluid {
+    padding: 0 1rem;
+  }
+  .cid-rYTbQoAanC .btn {
+    padding: 1rem 2rem;
+    font-size: 16px !important;
+  }
+  .cid-rYTbQoAanC .text-block {
+    margin-bottom: 2rem;
+  }
+}
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  .cid-rYTbQoAanC .text-block {
+    border: 1px dashed #f9e2af;
+    outline: 15px solid #232323;
+  }
+}
+.cid-rYTbQoAanC H3 {
+  color: #00e29e;
 }
 .cid-rYT3WTcOd9 {
   padding-top: 60px;
