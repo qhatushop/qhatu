@@ -4,6 +4,9 @@
 
 
 
+.mbr-section-btn .btn {
+  border-radius: 50px !important;
+}
 body {
   font-family: Be Vietnam;
 }
@@ -28,11 +31,11 @@ body {
 .display-4 {
   font-family: 'Varela Round', sans-serif;
   font-weight: 400;
-  font-size: 0.8rem;
+  font-size: 1rem;
   line-height: 1.65;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 0.8rem;
+  font-size: 1rem;
 }
 .display-5 {
   font-family: 'Varela Round', sans-serif;
@@ -557,9 +560,15 @@ a.text-black:focus {
 .alert-danger {
   background-color: #ebeaed;
 }
+.mbr-section-btn a.btn:not(.btn-form) {
+  border-radius: 50px;
+}
 .mbr-section-btn a.btn:not(.btn-form):hover,
 .mbr-section-btn a.btn:not(.btn-form):focus {
   box-shadow: none;
+}
+.mbr-gallery-filter li a {
+  border-radius: 50px !important;
 }
 .mbr-gallery-filter li.active .btn {
   background-color: #00e29e;
@@ -568,6 +577,9 @@ a.text-black:focus {
 }
 .mbr-gallery-filter li.active .btn:focus {
   box-shadow: none;
+}
+.nav-tabs .nav-link {
+  border-radius: 50px !important;
 }
 a,
 a:hover {
@@ -594,6 +606,9 @@ a:hover {
   color: #ffffff;
 }
 /* Scroll to top button*/
+#scrollToTop a {
+  border-radius: 50px;
+}
 .form-control {
   font-family: 'Varela Round', sans-serif;
   font-size: 1.2rem;
@@ -609,6 +624,12 @@ blockquote {
 /* Forms */
 .mbr-form .btn {
   margin: .4rem 0;
+}
+.mbr-form .input-group-btn a.btn {
+  border-radius: 50px !important;
+}
+.mbr-form .input-group-btn button[type="submit"] {
+  border-radius: 50px !important;
 }
 .jq-selectbox li:hover,
 .jq-selectbox li.selected {
