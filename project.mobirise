@@ -21,7 +21,7 @@
         "display7Font": "Varela Round",
         "display7Size": 1.5625,
         "display4Font": "Varela Round",
-        "display4Size": 1,
+        "display4Size": ".9",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": true
