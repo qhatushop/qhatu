@@ -1249,68 +1249,41 @@ blockquote {
   color: #6a696c;
   text-align: center;
 }
-.cid-rRHGhd2JmI {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
-  background-color: #76008f;
-}
-.cid-rRHGhd2JmI .mbr-text {
-  line-height: 1.55;
-  color: #ebeaed;
-}
-.cid-rRHGhd2JmI .price {
-  margin-top: 5px;
-  color: #ffffff;
-}
-.cid-rRHGhd2JmI .symbol {
-  line-height: 1.1;
-  top: 3px;
-  vertical-align: top;
+.cid-rYUFD5tyfY {
+  padding-top: 120px;
+  padding-bottom: 180px;
+  background-color: #ffffff;
   position: relative;
-  color: #ffffff;
+  overflow: hidden;
 }
-.cid-rRHGhd2JmI .mbr-section-btn {
-  margin: 10px 0 0 0;
+.cid-rYUFD5tyfY svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform: scale(1.8, 1.8);
 }
-.cid-rRHGhd2JmI .btn-md {
-  padding: 0 20px 0 15px ;
-  height: 50px;
-  margin: 0 !important;
+.cid-rYUFD5tyfY #e1_ellipse {
+  fill: #76008f !important;
 }
-.cid-rRHGhd2JmI .btn-md:hover {
-  background-color: #a638bd !important;
-  border-color: #a638bd !important;
+.cid-rYUFD5tyfY img {
+  width: 80%;
+  border-radius: 10px;
+  height: 100%;
+  object-fit: cover;
+  box-shadow: 0 10px 55px 5px rgba(186, 90, 206, 0.35);
 }
-.cid-rRHGhd2JmI .btn-md .mbr-iconfont {
-  margin: 5px 0 0 !important;
-  animation-name: none;
-  order: 0;
-}
-.cid-rRHGhd2JmI .mbr-iconfont:after {
-  content: "";
-  display: inline-block;
-  vertical-align: middle;
-  height: 23px;
-  width: 1px;
-  background-color: rgba(255, 255, 255, 0.4);
-  margin: 0 10px 0 10px;
-}
-@media (max-width: 991px) {
-  .cid-rRHGhd2JmI .content__block,
-  .cid-rRHGhd2JmI .price__block {
-    margin-bottom: 30px;
+@media (max-width: 576px) {
+  .cid-rYUFD5tyfY img {
+    width: 100%;
+    left: 0;
   }
 }
-.cid-rRHGhd2JmI .descr {
-  color: #444345;
-}
-.cid-rRHGhd2JmI .mbr-section-title {
+.cid-rYUFD5tyfY H1 {
   color: #ffffff;
 }
-.cid-rRHGhd2JmI .descr,
-.cid-rRHGhd2JmI .price__block,
-.cid-rRHGhd2JmI .mbr-section-btn {
-  color: #ffcee3;
+.cid-rYUFD5tyfY .mbr-text,
+.cid-rYUFD5tyfY .mbr-section-btn {
+  color: #ebeaed;
 }
 .cid-rYOxgT33NQ {
   overflow: hidden;
