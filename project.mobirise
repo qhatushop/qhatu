@@ -35,7 +35,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "name": "Site-05-12_0208",
+    "name": "Qhatu.shop",
     "versionFirst": "4.10.15",
     "siteFonts": [
       {
@@ -55,7 +55,26 @@
       }
     ],
     "uniqCompNum": 29,
-    "versionPublish": "4.10.15"
+    "versionPublish": "4.10.15",
+    "cookiesAlert": {
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "#ffffff",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
+    },
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on",
+    "PWA": {
+      "enabled": false
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/isotipo-qhatu-128x86.png",
+    "noImageResize": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
