@@ -1017,16 +1017,16 @@ blockquote {
 }
 .cid-rYUJ1NL5Ea .image {
   position: absolute;
-  background-image: url("../../../assets/images/mbr-1920x1285.jpg");
+  background-image: url("../../../assets/images/mockup-1024x768.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
   z-index: 1 !important;
   width: 800px;
   height: 500px;
-  margin-left: 44vw;
+  margin-left: 36vw;
   transform-origin: center;
-  transform: rotate(342deg);
+  transform: rotate(354deg);
 }
 @media (max-width: 991px) {
   .cid-rYUJ1NL5Ea .image {
