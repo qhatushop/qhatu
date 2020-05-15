@@ -1024,9 +1024,9 @@ blockquote {
   z-index: 1 !important;
   width: 800px;
   height: 500px;
-  margin-left: 36vw;
+  margin-left: 38vw;
   transform-origin: center;
-  transform: rotate(354deg);
+  transform: rotate(360deg);
 }
 @media (max-width: 991px) {
   .cid-rYUJ1NL5Ea .image {
